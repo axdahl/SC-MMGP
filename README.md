@@ -51,7 +51,7 @@ For this you will require:
 
 1. Clone the repo onto the GPU-enabled machine
 ```
-git clone https://github.com/scmmgpsubmission/SC-MMGP.git
+git clone https://github.com/axdahl/SC-MMGP.git
 ```
 
 2. Adjust `setup.py` as necessary for compiler settings.
